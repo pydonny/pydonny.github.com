@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>pydonny</title><link href="http://pydonny.github.io/" rel="alternate"></link><link href="http://pydonny.github.io/feeds/all.atom.xml" rel="self"></link><id>http://pydonny.github.io/</id><updated>2014-01-01T12:00:00+10:00</updated><entry><title>New Year's Resolutions for 2014</title><link href="http://pydonny.github.io/new-years-resolutions-for-2014.html" rel="alternate"></link><updated>2014-01-01T12:00:00+10:00</updated><author><name>Donald Casson</name></author><id>tag:pydonny.github.io,2014-01-01:new-years-resolutions-for-2014.html</id><summary type="html">&lt;p&gt;Making News Year's Resolutions is something I do every year. It's important to me. I like to set goals and see how well I do.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pydonny</title><link>http://pydonny.github.io/</link><description></description><atom:link href="http://pydonny.github.io/feeds/donald-casson.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 01 Jan 2014 12:00:00 +1000</lastBuildDate><item><title>New Year's Resolutions for 2014</title><link>http://pydonny.github.io/new-years-resolutions-for-2014.html</link><description>&lt;p&gt;Making News Year's Resolutions is something I do every year. It's important to me. I like to set goals and see how well I do.&lt;/p&gt;
 &lt;div class="section" id="resolutions"&gt;
 &lt;h2&gt;Resolutions&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -24,4 +24,4 @@
 &lt;li&gt;Work less and enjoy life with Audrey more.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</summary><category term="holidays"></category><category term="resolutions"></category><category term="python"></category><category term="family"></category><category term="friends"></category><category term="capoeira"></category><category term="django"></category></entry></feed>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Donald Casson</dc:creator><pubDate>Wed, 01 Jan 2014 12:00:00 +1000</pubDate><guid>tag:pydonny.github.io,2014-01-01:new-years-resolutions-for-2014.html</guid><category>holidays</category><category>resolutions</category><category>python</category><category>family</category><category>friends</category><category>capoeira</category><category>django</category></item></channel></rss>
