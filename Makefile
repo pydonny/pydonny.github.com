@@ -1,5 +1,5 @@
 build:
-		pelican-themes -r pydonny
+		pelican-themes -r pydonny.blog.theme
 		pelican-themes -i ../pydonny.blog.theme
 	    pelican . -o . -s settings.py
 

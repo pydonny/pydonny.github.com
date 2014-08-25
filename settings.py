@@ -8,7 +8,8 @@ SOCIAL = (('twitter', 'http://twitter.com/pydonny'),
           ('github', 'https://github.com/pydonny'),
           ('facebook', 'http://www.facebook.com/donald.casson'),)
 TAG_FEED_ATOM = 'feeds/%s.atom.xml'
-THEME = 'notmyidea'
+THEME = '../pydonny.blog.theme'
+BOOTSTRAP_THEME = "simplex"
 TWITTER_USERNAME = 'pydonny'
 TIMEZONE = 'Australia/Brisbane'
 DEFAULT_DATE_FORMAT = '%A, %B %d, %Y'
