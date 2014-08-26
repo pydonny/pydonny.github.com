@@ -13,3 +13,4 @@ BOOTSTRAP_THEME = "simplex"
 TWITTER_USERNAME = 'pydonny'
 TIMEZONE = 'Australia/Brisbane'
 DEFAULT_DATE_FORMAT = '%A, %B %d, %Y'
+LOCALE = 'en_AU'
